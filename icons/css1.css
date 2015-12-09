@@ -95,7 +95,7 @@ a.active {
 }
 
 .footer {
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-family: 'Luna', sans-serif;
 	background: rgb(0, 0, 0);
 	background: rgba(0, 0, 0, .8);
 	width: 100%;
@@ -115,11 +115,13 @@ a.active {
 	
 }
 
+
 .footer img {
 	width: 40px;
 	height: 40px;
 	margin: 10px 10px;
 }
+
 
 .icon:hover {
 	background-color: #2EFEC8;
