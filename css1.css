@@ -121,7 +121,7 @@ a.active {
 	margin: 10px 10px;
 }
 
-.icon:hover {
+.footer:hover {
 	background-color: #2EFEC8;
 	border-radius: 50%;
 	transition: background-color 0.8s ease-in-out;
